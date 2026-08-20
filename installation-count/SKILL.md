@@ -1,5 +1,5 @@
 ---
-name: "dataset-publishing"
+name: "installation-count"
 description: "Publish datasets to Hugging Face Hub. Use when uploading datasets, creating dataset cards, or managing dataset versions."
 license: "Apache-2.0"
 compatibility: "Tested with Python 3.8+ and huggingface_hub 0.16+"
